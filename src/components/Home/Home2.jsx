@@ -79,6 +79,17 @@ function Home2() {
                                     <FaGoogle />
                                 </a>
                             </li>
+                            <li className="social-icons">
+                                <a
+                                    href="https://www.upwork.com/freelancers/~01f93a2b0f721f1ffa"
+                                    target="_blank"
+                                    rel="noreferrer"
+                                    className="icon-colour  home-social-icons"
+                                >
+                                    <SiUpwork />
+                                </a>
+                            </li>
+
                         </ul>
                     </Col>
                 </Row>
